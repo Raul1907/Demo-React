@@ -1,6 +1,7 @@
 # Demo-React
 Repositorio de primer demo en React
 
-Despues de desargar ejecutar
+Reconstruir módulos de Node
+```
 npm install
-para node_modules
+```
